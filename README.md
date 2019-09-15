@@ -16,6 +16,8 @@ collection of fastai resources: blog posts, twitter threads, tools etc.
 ## LinkDump: 
 *(Links to be sorted into above categories.)*
 
+[Most Important lesson learned](https://forums.fast.ai/t/most-important-lesson-learned/8623/7)
+
 [github.com/asvcode/fastai_resources](https://github.com/asvcode/fastai_resources)
 
 [Finding Data Block Nirvana (a journey through the fastai data block API)](https://blog.usejournal.com/finding-data-block-nirvana-a-journey-through-the-fastai-data-block-api-c38210537fe4)
