@@ -16,6 +16,8 @@ collection of fastai resources: blog posts, twitter threads, tools etc.
 ## LinkDump: 
 *(Links to be sorted into above categories.)*
 
+[github.com/asvcode/fastai_resources](https://github.com/asvcode/fastai_resources)
+
 [Finding Data Block Nirvana (a journey through the fastai data block API)](https://blog.usejournal.com/finding-data-block-nirvana-a-journey-through-the-fastai-data-block-api-c38210537fe4)
 
 [Understanding callbacks in fastai • Pierre Ouannes](https://pouannes.github.io/blog/callbacks-fastai/)
