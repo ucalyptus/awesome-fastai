@@ -14,7 +14,7 @@ collection of fastai resources: blog posts, twitter threads, tools etc.
 <br></br>
 <br></br>
 ## LinkDump: 
-###*(Links to be sorted into above categories.)*
+*(Links to be sorted into above categories.)*
 
 [Finding Data Block Nirvana (a journey through the fastai data block API)](https://blog.usejournal.com/finding-data-block-nirvana-a-journey-through-the-fastai-data-block-api-c38210537fe4)
 
