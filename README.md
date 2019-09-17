@@ -4,13 +4,14 @@ collection of fastai resources: blog posts, twitter threads, tools etc.
 
 
 ## Github Links
-## Fastai Forums Gems
+## Innovative Projects
 ## Blogposts
-## Twitter (Threads/ Accounts etc.)
 ## Kaggle Links
-## Youtube (Playlists/ Channels)
 
-
+[Introduction to Image Augmentation using fastai | Kaggle](https://www.kaggle.com/init27/introduction-to-image-augmentation-using-fastai)
+[Histopathological Cancer Detection](https://www.kaggle.com/sayantandas30011998/fastai-v1-densenet201)
+[Pneumothorax Segmentation using HyperColumns](https://www.kaggle.com/iafoss/hypercolumns-pneumothorax-fastai-0-831-lb)
+[Blindness Detection using EfficientNet](https://www.kaggle.com/hmendonca/efficientnetb4-fastai-blindness-detection)
 <br></br>
 <br></br>
 ## LinkDump: 
@@ -40,7 +41,6 @@ collection of fastai resources: blog posts, twitter threads, tools etc.
 
 [Matrix Multiplication — Part2 Lesson8 – Towards Data Science](https://towardsdatascience.com/matrix-multiplication-part2-lesson8-34c9b77855c4)
 
-[Introduction to Image Augmentation using fastai | Kaggle](https://www.kaggle.com/init27/introduction-to-image-augmentation-using-fastai)
 
 [Sanyam Bhutani | Kaggle](https://www.kaggle.com/init27/discussion)
 
