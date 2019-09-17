@@ -9,6 +9,10 @@ Collection of fastai resources: blog posts, projects, etc.
 * [Pneumothorax Segmentation using HyperColumns](https://www.kaggle.com/iafoss/hypercolumns-pneumothorax-fastai-0-831-lb)
 * [Blindness Detection using EfficientNet](https://www.kaggle.com/hmendonca/efficientnetb4-fastai-blindness-detection)
 * [Malaria Detection](https://www.kaggle.com/ingbiodanielh/malaria-detection-with-fastai-v1)
+* [Fluke Detection | Radek Osmulski](https://www.kaggle.com/c/humpback-whale-identification/discussion/76281#448231)
+* [Bears Dataset](https://www.kaggle.com/stansidel/bears-fastai-course)
+* [iMet Starter](https://www.kaggle.com/mnpinto/imet-fastai-starter)
+and more.... :shipit:
 
 ## Github Links :sparkle:
 * [github.com/asvcode/fastai_resources](https://github.com/asvcode/fastai_resources)
