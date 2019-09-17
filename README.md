@@ -1,4 +1,5 @@
 # awesome-fastai :globe_with_meridians: :pushpin:
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 Collection of fastai resources: blog posts, projects, etc.
 <br></br>
 
@@ -12,6 +13,7 @@ Collection of fastai resources: blog posts, projects, etc.
 * [Fluke Detection | Radek Osmulski](https://www.kaggle.com/c/humpback-whale-identification/discussion/76281#448231)
 * [Bears Dataset](https://www.kaggle.com/stansidel/bears-fastai-course)
 * [iMet Starter](https://www.kaggle.com/mnpinto/imet-fastai-starter)
+
 and more.... :shipit:
 
 ## Github Links :sparkle:
@@ -19,6 +21,11 @@ and more.... :shipit:
 * [mgrankin/over9000: Over9000 optimizer](https://github.com/mgrankin/over9000)
 * [KushajveerSingh/fastai_without_fastai: Useful fastai methods like lr_find, fit_one_cycle in pure PyTorch (no need to import fastai)](https://github.com/KushajveerSingh/fastai_without_fastai)
 * [mogwai/fastai_audio: 🔊️ Audio with Fastai](https://github.com/mogwai/fastai_audio)
+* [SSD using fastai](https://github.com/rohitgeo/singleshotdetector)
+* [Water Classifier](https://github.com/shankarj67/Water-classifier-fastai)
+* [Protein Atlas fastai](https://github.com/wdhorton/protein-atlas-fastai)
+* [Google Retrieval Challenge 2019](https://github.com/ducha-aiki/google-retrieval-challenge-2019-fastai-starter)
+* [Fastai for Medical AI](https://github.com/renato145/fastai_scans)
 
 ## Forum Gems :sparkle:
 * [Lesson 1 links to different parts in video - Part 1 (2019) - Deep Learning Course Forums](https://forums.fast.ai/t/lesson-1-links-to-different-parts-in-video/27581)
