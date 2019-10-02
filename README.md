@@ -3,8 +3,22 @@
 Collection of fastai resources: blog posts, projects, etc.
 <br></br>
 
+## v2 Code-WalkThroughs :new:
+* [Youtube Playlist](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSWRCYUHh-ThVCC39bp5yiq)
+* [WT1 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-1/53940)
+* [WT2 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-2/53978)
+* [WT3 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-3/54067)
+* [WT4 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-4/54137)
+* [WT5 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-5/54405)
+* [WT6 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-6/54775)
+* [WT7 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-7/54924)
+* [WT8 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-8/55068)
+* [WT9 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-9/55234)
+* [WT10 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-10/55324)
+
 ## Kaggle Links :sparkle:
 
+* [fastai v2 PipeLine Tutorial](https://www.kaggle.com/jhoward/fastai-v2-pipeline-tutorial) :new:
 * [Introduction to Image Augmentation using fastai | Kaggle](https://www.kaggle.com/init27/introduction-to-image-augmentation-using-fastai)
 * [Histopathological Cancer Detection](https://www.kaggle.com/sayantandas30011998/fastai-v1-densenet201)
 * [Pneumothorax Segmentation using HyperColumns](https://www.kaggle.com/iafoss/hypercolumns-pneumothorax-fastai-0-831-lb)
