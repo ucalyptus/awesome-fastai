@@ -40,6 +40,7 @@ and more.... :shipit:
 * [Protein Atlas fastai](https://github.com/wdhorton/protein-atlas-fastai)
 * [Google Retrieval Challenge 2019](https://github.com/ducha-aiki/google-retrieval-challenge-2019-fastai-starter)
 * [Fastai for Medical AI](https://github.com/renato145/fastai_scans)
+* [RSNA Intracranial Hemorrhage Detection Kaggle competition starter pack](https://github.com/radekosmulski/rsna-intracranial)
 
 ## Forum Gems :sparkle:
 * [Lesson 1 links to different parts in video - Part 1 (2019) - Deep Learning Course Forums](https://forums.fast.ai/t/lesson-1-links-to-different-parts-in-video/27581)
