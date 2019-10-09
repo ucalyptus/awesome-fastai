@@ -16,6 +16,9 @@ Collection of fastai resources: blog posts, projects, etc.
 * [WT9 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-9/55234)
 * [WT10 Notes](https://forums.fast.ai/t/fastai-v2-code-walk-thru-10/55324)
 
+## Deploy :new:
+* [Starter Pack for creating fast responsive Web App for Fast.AI Vision models](https://github.com/pankymathur/fastai-vision-app)
+
 ## Kaggle Links :sparkle:
 
 * [fastai v2 PipeLine Tutorial](https://www.kaggle.com/jhoward/fastai-v2-pipeline-tutorial) :new:
