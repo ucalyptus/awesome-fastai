@@ -73,4 +73,5 @@ and more.... :shipit:
 
 ## Contribute :loudspeaker: 
 Head over to [guidelines](https://github.com/ucalyptus/awesome-fastai/blob/master/CONTRIBUTING.md)
+or file an issue at [Issues](https://github.com/ucalyptus/awesome-fastai/issues/)
 
