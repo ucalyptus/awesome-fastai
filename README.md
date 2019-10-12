@@ -1,4 +1,4 @@
-# awesome-fastai :globe_with_meridians: :pushpin:
+﻿# awesome-fastai :_globe_with_meridians: :pushpin:
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 Collection of fastai resources: blog posts, projects, etc.
 <br></br>
@@ -60,7 +60,7 @@ and more.... :shipit:
 ## Blogposts :sparkle:
 * [UPDATED FOR 2019! Learn Machine Learning & Deep Learning with us: TWiML x Fast.ai Study Group - This Week in Machine Learning & AI](https://twimlai.com/twiml-x-fast-ai/)
 * [Building Web App for Computer Vision Model & Deploying to Production in 10 Minutes\*: A Detailed Guide](https://towardsdatascience.com/building-web-app-for-computer-vision-model-deploying-to-production-in-10-minutes-a-detailed-ec6ac52ec7e4)
-* [Deep Learning Web App by fastai v1 - Pierre Guillou - Medium](https://medium.com/@pierre_guillou/deep-learning-web-app-by-fastai-v1-3ab4c20b7cac)
+* [Deep Learning Web App by fastai v1 -Pierre Guillou - Medium](https://medium.com/@pierre_guillou/deep-learning-web-app-by-fastai-v1-3ab4c20b7cac)
 * [10 New Things I Learnt from fast.ai v3 – Towards Data Science](https://towardsdatascience.com/10-new-things-i-learnt-from-fast-ai-v3-4d79c1f07e33)
 * [Class and Method in 2 lines](https://pbs.twimg.com/media/D9oEBy1VUAA8jfa?format=jpg&name=large)
 * [Matrix Multiplication — Part2 Lesson8 – Towards Data Science](https://towardsdatascience.com/matrix-multiplication-part2-lesson8-34c9b77855c4)
