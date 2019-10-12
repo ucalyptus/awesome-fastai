@@ -1,4 +1,4 @@
-﻿# awesome-fastai :_globe_with_meridians: :pushpin:
+﻿# awesome-fastai :globe_with_meridians: :pushpin:
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 Collection of fastai resources: blog posts, projects, etc.
 <br></br>
