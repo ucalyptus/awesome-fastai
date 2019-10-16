@@ -21,16 +21,16 @@ Collection of fastai resources: blog posts, projects, etc.
 
 ## Kaggle Links :sparkle:
 
-* [fastai v2 PipeLine Tutorial](https://www.kaggle.com/jhoward/fastai-v2-pipeline-tutorial) :new:
-* [Introduction to Image Augmentation using fastai | Kaggle](https://www.kaggle.com/init27/introduction-to-image-augmentation-using-fastai)
-* [Histopathological Cancer Detection](https://www.kaggle.com/sayantandas30011998/fastai-v1-densenet201)
-* [Pneumothorax Segmentation using HyperColumns](https://www.kaggle.com/iafoss/hypercolumns-pneumothorax-fastai-0-831-lb)
-* [Blindness Detection using EfficientNet](https://www.kaggle.com/hmendonca/efficientnetb4-fastai-blindness-detection)
-* [Malaria Detection](https://www.kaggle.com/ingbiodanielh/malaria-detection-with-fastai-v1)
+* [fastai v2 PipeLine Tutorial](https://nbviewer.jupyter.org/urls/www.kaggle.com/kernels/scriptcontent/21388191/download) :new:
+* [Introduction to Image Augmentation using fastai | Kaggle](https://nbviewer.jupyter.org/urls/www.kaggle.com/kernels/scriptcontent/11074080/download)
+* [Histopathological Cancer Detection](https://nbviewer.jupyter.org/urls/www.kaggle.com/kernels/scriptcontent/10957232/download)
+* [Pneumothorax Segmentation using HyperColumns](https://nbviewer.jupyter.org/urls/www.kaggle.com/kernels/scriptcontent/16865211/download)
+* [Blindness Detection using EfficientNet](https://nbviewer.jupyter.org/urls/www.kaggle.com/kernels/scriptcontent/19310748/download)
+* [Malaria Detection](https://nbviewer.jupyter.org/urls/www.kaggle.com/kernels/scriptcontent/9195619/download)
 * [Fluke Detection | Radek Osmulski](https://www.kaggle.com/c/humpback-whale-identification/discussion/76281#448231)
 * [Bears Dataset](https://www.kaggle.com/stansidel/bears-fastai-course)
-* [iMet Starter](https://www.kaggle.com/mnpinto/imet-fastai-starter)
-* [RSNA Demo](https://www.kaggle.com/jhoward/don-t-see-like-a-radiologist-fastai)
+* [iMet Starter](https://nbviewer.jupyter.org/urls/www.kaggle.com/kernels/scriptcontent/12315444/download)
+* [RSNA Demo](https://nbviewer.jupyter.org/urls/www.kaggle.com/kernels/scriptcontent/21935662/download)
 
 and more.... :shipit:
 
