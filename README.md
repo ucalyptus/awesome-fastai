@@ -68,6 +68,8 @@ and more.... :shipit:
 * [Announcing fast.ai part 1 now available as Kaggle Kernels](https://towardsdatascience.com/announcing-fast-ai-part-1-now-available-as-kaggle-kernels-8ef4ca3b9ce6)
 * [Track and organize fastai experimentation process in Neptune](https://medium.com/neptune-ml/track-and-organize-fastai-experimentation-process-in-neptune-78ec8d6b18b0)
 
+## Quizzes
+* [Lecture 8 Quiz](https://t.co/ad33OFMBYI?amp=1)
 
 ## TwiML :sparkle:
 * [This Week in Machine Learning & AI - YouTube](https://www.youtube.com/channel/UC7kjWIK1H8tfmFlzZO-wHMw/playlists)
