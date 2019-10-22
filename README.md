@@ -73,6 +73,7 @@ and more.... :shipit:
 
 ## TwiML :sparkle:
 * [This Week in Machine Learning & AI - YouTube](https://www.youtube.com/channel/UC7kjWIK1H8tfmFlzZO-wHMw/playlists)
+* [TWiMLAI x fast.ai Study group sign up page](https://twimlai.com/twiml-x-fast-ai/)
 
 ## Contribute :loudspeaker: 
 Head over to [guidelines](https://github.com/ucalyptus/awesome-fastai/blob/master/CONTRIBUTING.md)
