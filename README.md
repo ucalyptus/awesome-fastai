@@ -69,7 +69,7 @@ and more.... :shipit:
 * [Track and organize fastai experimentation process in Neptune](https://medium.com/neptune-ml/track-and-organize-fastai-experimentation-process-in-neptune-78ec8d6b18b0)
 
 ## Quizzes
-* [Lecture 8 Quiz](https://t.co/ad33OFMBYI?amp=1)
+* [Radek's Unofficial Fastai Quizzes](https://t.co/ad33OFMBYI?amp=1)
 
 ## TwiML :sparkle:
 * [This Week in Machine Learning & AI - YouTube](https://www.youtube.com/channel/UC7kjWIK1H8tfmFlzZO-wHMw/playlists)
